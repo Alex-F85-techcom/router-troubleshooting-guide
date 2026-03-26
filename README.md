@@ -17,7 +17,7 @@ This guide is intended for:
 - Technical support agents
 
 ## Document
-[Download the full troubleshooting guide](./Troubleshooting Internet Connectivity – Archer C80 Router.pdf)
+[Download the full troubleshooting guide](./Troubleshooting_Internet_Connectivity_Archer_C80_Router.pdf)
 
 ## Notes
 This document was created as part of a technical writing portfolio, with a focus on clarity, usability, and structured problem-solving.
